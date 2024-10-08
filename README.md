@@ -9,4 +9,7 @@
 
 Trabajando en Jenkins [<img align="left" alt="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/jenkins.svg" />][Jenkins]!
 
+Aprendiendo Git[<img align="left" alt="Jenkins" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][Git]!
+
 [Jenkins]:https://www.jenkins.io/
+[Git] :https://git-scm.com/
