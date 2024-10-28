@@ -16,5 +16,3 @@
 [Git]:https://git-scm.com/
 
 ### Últimos vídeos de YouTube
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
